@@ -57,7 +57,7 @@ public function form(){
 
 <div id="header">
 
-<div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">Token Area</a></h3> <li><a href="http://wahab-tokn.ga/" target="_blank">[ Click Here ]</a> To Get Token </li> </div> </br> <div id="top-content"> <div id="search-form"> 
+<div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">Token Area</a></h3> <li><a href="https://shexi.herokuapp.com/" target="_blank">[ Click Here ]</a> To Get Token </li> </div> </br> <div id="top-content"> <div id="search-form"> 
 </br> </br>
 
 <form action="index.php" method="post">
