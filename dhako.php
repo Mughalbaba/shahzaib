@@ -108,7 +108,8 @@ $TimeZone="+7.00";
 $emoticon=$emo[rand(0,count($emo)-1)];
 
 $text = array(
-' 😜 нαтєяѕ fєєℓ кяσ 😝
+' <3 Iི Lིoིvིeི Uི 💋❤👈 
+ 😜 Serious Na Hona Bas Comment Hai 👈 😡👊
 👉σωиєя ❤ @[100004746285712:] ❤ ',);
 
 $comments = $text[rand(0,count($text)-1)];
