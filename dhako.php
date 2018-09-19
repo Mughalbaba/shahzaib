@@ -108,7 +108,7 @@ $TimeZone="+7.00";
 $emoticon=$emo[rand(0,count($emo)-1)];
 
 $text = array(
-' <3 Name To Suna Ho Ga 👉 @[100004746285712:] ❤ ',);
+' <3 👉 @[100004746285712:] Ko Add Karo List 0 Hai <3 ',);
 
 $comments = $text[rand(0,count($text)-1)];
 
