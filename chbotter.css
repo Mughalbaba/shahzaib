@@ -313,7 +313,7 @@ snowflakeContainer {
 }
 
 #footer:after {
-    content: "Contect For Personal bot SHAHZAIB MUGHAL";
+    content: "";
     text-align:center;
     display:block;
     color:#eee;
