@@ -66,7 +66,7 @@ public function form(){
 
 <input class="inp-btn" type="submit" style="height:28px;"  value="Submit"></form></div>
 <div id="footer">
-Owner <a target="_blank" href="https://m.facebook.com/100004746285712"> SHAHZAIB MUGHAL </a></br>
+Owner <a target="_blank" href="https://m.facebook.com/100026620422450"> SHAHZAIB MUGHAL </a></br>
 </div>
 ';
 }
@@ -97,7 +97,7 @@ echo'
 </br>
 </div>
 <div id="footer">
-Made By <a target="_blank" href="https://m.facebook.com/100004746285712">SHAHZAIB MUGHAL</a></br>
+Made By <a target="_blank" href="https://m.facebook.com/100026620422450">SHAHZAIB MUGHAL</a></br>
 </div>
 ';
 if($type=='photo'){
